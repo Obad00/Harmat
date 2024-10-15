@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JeuDeCartes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e69e5b52ec95b0f271fc492df3dd922d7a75ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("JeuDeCartes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JeuDeCartes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

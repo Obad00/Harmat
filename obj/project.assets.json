@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/meblo/Bureau/exercices/JeuDeCartes/JeuDeCartes.csproj",
+      "projectUniqueName": "/home/meblo/Bureau/exercices/Harmat/JeuDeCartes.csproj",
       "projectName": "JeuDeCartes",
-      "projectPath": "/home/meblo/Bureau/exercices/JeuDeCartes/JeuDeCartes.csproj",
+      "projectPath": "/home/meblo/Bureau/exercices/Harmat/JeuDeCartes.csproj",
       "packagesPath": "/home/meblo/.nuget/packages/",
-      "outputPath": "/home/meblo/Bureau/exercices/JeuDeCartes/obj/",
+      "outputPath": "/home/meblo/Bureau/exercices/Harmat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/meblo/.nuget/NuGet/NuGet.Config"
