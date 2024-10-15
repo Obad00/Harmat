@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/meblo/.nuget/packages/": {}
+    "/home/mouhammad/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/meblo/Bureau/exercices/Harmat/JeuDeCartes.csproj",
+      "projectUniqueName": "/home/mouhammad/Bureau/test/JeuDeCartes.csproj",
       "projectName": "JeuDeCartes",
-      "projectPath": "/home/meblo/Bureau/exercices/Harmat/JeuDeCartes.csproj",
-      "packagesPath": "/home/meblo/.nuget/packages/",
-      "outputPath": "/home/meblo/Bureau/exercices/Harmat/obj/",
+      "projectPath": "/home/mouhammad/Bureau/test/JeuDeCartes.csproj",
+      "packagesPath": "/home/mouhammad/.nuget/packages/",
+      "outputPath": "/home/mouhammad/Bureau/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/meblo/.nuget/NuGet/NuGet.Config"
+        "/home/mouhammad/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
